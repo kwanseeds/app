@@ -10,7 +10,7 @@ URI     : https://colorlib.com
  -->
 
 <head>
-    <title>MobApp - App Landing Page Template</title>
+    <title>MobApp - App Landing Page Template test</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -508,7 +508,7 @@ URI     : https://colorlib.com
     <!-- // end .section -->
     <footer class="my-5 text-center">
         <!-- Copyright removal is not prohibited! -->
-        <p class="mb-2"><small>COPYRIGHT © 2017. ALL RIGHTS RESERVED. MOBAPP TEMPLATE BY <a href="https://colorlib.com">COLORLIB</a></small></p>
+        <p class="mb-2"><small>COPYRIGHT Â© 2017. ALL RIGHTS RESERVED. MOBAPP TEMPLATE BY <a href="https://colorlib.com">COLORLIB</a></small></p>
 
         <small>
             <a href="#" class="m-2">PRESS</a>
